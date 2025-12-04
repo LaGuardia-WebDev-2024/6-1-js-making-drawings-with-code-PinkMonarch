@@ -11,16 +11,28 @@ void draw(){
   strokeWeight(3);
 
   //💡⬇️⬇️⬇️💡 Your Code For This Unit Goes Here
-  ellipse(50,50,100,80);
+  ellipse(200,60,80,100);
   
+  ellipse(200, 158, 100, 100)
 
-}
+  ellipse(200, 259, 190, 100)
 
+  ellipse(185, 40, 20, 10)
+
+  ellipse(210, 40, 20, 10)
+
+
+
+
+
+
+
+} 
 //🟡Extra FUN Features Ms. Hall Added
 //Proceed with Caution (and Curiosity!)
 
 var fillR = 255;
-var fillG = 0;
+var fillG = 200;
 var fillB = 255;
 
 //🟡Mouse Pressed Procedue - Runs When Mouse is Pressed on Canvas
